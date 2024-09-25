@@ -1,2 +1,2 @@
-# Value_Iteration_TicTacToe
-TicTacToe CPU based on value iteration algorithm
+# Value Iteration for Tic-Tac-Toe
+Tic-Tac-Toe CPU based on value iteration algorithm
